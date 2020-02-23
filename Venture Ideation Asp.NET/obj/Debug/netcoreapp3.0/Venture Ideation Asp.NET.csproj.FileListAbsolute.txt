@@ -1,0 +1,37 @@
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\bin\Debug\netcoreapp3.0\Venture Ideation Asp.NET.exe
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\bin\Debug\netcoreapp3.0\Venture Ideation Asp.NET.deps.json
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\bin\Debug\netcoreapp3.0\Venture Ideation Asp.NET.runtimeconfig.json
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\bin\Debug\netcoreapp3.0\Venture Ideation Asp.NET.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\bin\Debug\netcoreapp3.0\Venture Ideation Asp.NET.dll
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\bin\Debug\netcoreapp3.0\Venture Ideation Asp.NET.pdb
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\bin\Debug\netcoreapp3.0\Venture Ideation Asp.NET.Views.dll
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\bin\Debug\netcoreapp3.0\Venture Ideation Asp.NET.Views.pdb
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\staticwebassets\Venture Ideation Asp.NET.StaticWebAssets.Manifest.cache
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\staticwebassets\Venture Ideation Asp.NET.StaticWebAssets.xml
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.AssemblyInfo.cs
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.TagHelpers.input.cache
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.TagHelpers.output.cache
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.RazorCoreGenerate.cache
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.RazorTargetAssemblyInfo.cs
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.Views.pdb
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.dll
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.pdb
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Venture Ideation Asp.NET.csproj.CopyComplete
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Razor\Pages\Login.cshtml.g.cs
+C:\Users\HP\source\repos\Venture Ideation - WEBSITE\Venture Ideation Asp.NET\obj\Debug\netcoreapp3.0\Razor\Pages\Services.cshtml.g.cs

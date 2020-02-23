@@ -1,0 +1,109 @@
+﻿@page
+@model LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+    
+    <style>
+        /* Buttons for Login pages */
+        .btn-login {
+            background-color: royalblue;
+            border-radius: 20px;
+            color: white;
+            text-align: center;
+            display: inline-block;
+            font-size: 18px;
+        }
+        .text-in-form {
+            padding: 4px;
+        }
+        .text-in-controls {
+            padding: 4px;
+            border-radius: 5px;
+            background-color: ghostwhite;
+        }
+    </style>
+    <link rel="stylesheet" href="~/css/site_anim.css" />
+    <h1 class="slide-in-blurred-left">@ViewData["Title"]</h1>
+
+    <p class="slide-in-blurred-left">Use this page to Login.</p>
+    <p class="slide-in-blurred-left">Incase you are a new user, please Sign up!</p>
+
+    <div>
+        <table cellpadding="8px" style="background-color: lightblue; border-radius: 18px;">
+            <form action="" method="post">
+                <tr style="text-align:center; background-color:steelblue;">
+                    <td colspan="2">
+                        <h3>Student Registration!</h3>
+                    </td>
+                </tr>
+                <tr height="10px">
+                    <td colspan="2"></td>
+                </tr>
+                <tr class="text-in-form">
+                    <td>Name</td>
+                    <td><input class="text-in-controls" size="27" type="text" placeholder="Your full name..." /></td>
+                </tr>
+                <tr>
+                    <td>Date of birth</td>
+                    <td><input class="text-in-controls" size="27" type="date" /></td>
+                </tr>
+                <tr>
+                    <td>Current education level</td>
+                    <td>
+                        <select class="text-in-controls" name="edu_level">
+                            <option value="none">-------</option>
+                            <option value="pre-primary">Pre-Primary</option>
+                            <option value="kinder-garten">Kindergarten</option>
+                            <option value="junior-school">Junior School</option>
+                            <option value="high-school">High School</option>
+                            <option value="senior-school">Senior School</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>State</td>
+                    <td><input class="text-in-controls" size="27" type="text" placeholder="Name of your state..." /></td>
+                </tr>
+                <tr>
+                    <td>City</td>
+                    <td><input class="text-in-controls" size="27" type="text" placeholder="Name of your city..." /></td>
+                </tr>
+                <tr>
+                    <td>Address</td>
+                    <td><input class="text-in-controls" size="27" type="text" placeholder="Your full address..." /></td>
+                </tr>
+                <tr>
+                    <td>Father's Name</td>
+                    <td><input class="text-in-controls" size="27" type="text" placeholder="Your father's full name..." /></td>
+                </tr>
+                <tr>
+                    <td>Mother's Name</td>
+                    <td><input class="text-in-controls" size="27" type="text" placeholder="Your mother's full name..." /></td>
+                </tr>
+                <tr>
+                    <td>Email ID </td>
+                    <td><input class="text-in-controls" size="27" type="text" placeholder="Your valid email id..." /></td>
+                </tr>
+                <tr>
+                    <td>Password</td>
+                    <td><input class="text-in-controls" size="27" type="password" placeholder="Minimum length of 8 characters..." /></td>
+                </tr>
+                <tr>
+                    <td>Phone Number</td>
+                    <td><input class="text-in-controls" size="27" type="text" placeholder="Your current phone number..." maxlength="10" /></td>
+                </tr>
+                <tr height="10px">
+                    <td colspan="2"></td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center">
+                        <input type="submit" value="Register" style="border-radius: 5px; width: 150px; background-color: dodgerblue" />
+                    </td>
+                </tr>
+                <tr height="10px">
+                    <td colspan="2"></td>
+                </tr>
+            </form>
+        </table>
+    </div>
